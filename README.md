@@ -43,6 +43,7 @@ Gather raw data for sales and orders from the store's database or sales manageme
 
 
 2.**Data Cleaning**:
+
 Remove duplicates or irrelevant records.
 
 Address missing or inconsistent data (e.g., filling blanks or standardizing formats).
