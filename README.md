@@ -17,7 +17,7 @@ The primary objective of this project is to analyze the sales and order data of 
 
 1.**Data Collection**:
 
-  Gather raw data for sales and orders from the store's database or sales management system.
+Gather raw data for sales and orders from the store's database or sales management system.
   
 **Ensure the dataset includes key fields such as**:
   
@@ -46,49 +46,49 @@ The primary objective of this project is to analyze the sales and order data of 
 ![Screenshot 2025-01-09 121231](https://github.com/user-attachments/assets/4bca7a2b-0969-4627-97f4-c29b1dafbd28)
 
 2.**Data Cleaning**:
-  Remove duplicates or irrelevant records.
+Remove duplicates or irrelevant records.
 
-  Address missing or inconsistent data (e.g., filling blanks or standardizing formats).
+Address missing or inconsistent data (e.g., filling blanks or standardizing formats).
 
-	Ensure proper formatting of dates and numerical fields.
+Ensure proper formatting of dates and numerical fields.
 
 3.**Data Analysis**:
 
-	Use Excel tools like pivot tables, charts, and formulas to:
+Use Excel tools like pivot tables, charts, and formulas to:
 
-	Summarize sales data by product, category, region, and time.
+Summarize sales data by product, category, region, and time.
  
-	Calculate metrics like total sales, average order value (AOV), and sales growth rate.
+Calculate metrics like total sales, average order value (AOV), and sales growth rate.
  
-	Track order fulfillment times and identify delays.
+Track order fulfillment times and identify delays.
  
-	Apply conditional formatting to highlight key insights (e.g., high sales, underperforming products).
+Apply conditional formatting to highlight key insights (e.g., high sales, underperforming products).
  
 4.**Visualization**:
 
-	Create dashboards with charts (e.g., bar charts, line graphs, pie charts) to represent:
+Create dashboards with charts (e.g., bar charts, line graphs, pie charts) to represent:
 
-	Sales trends over time.
+Sales trends over time.
  
-	Product and category performance.
+Product and category performance.
  
-	Regional sales distribution.
+Regional sales distribution.
  
-	Customer segmentation insights.
+Customer segmentation insights.
  
-	Use slicers for interactivity in pivot tables and dashboards.
+Use slicers for interactivity in pivot tables and dashboards.
  
 5.**Insight Derivation**:
 
-	Identify top-selling products/categories and peak sales periods.
+Identify top-selling products/categories and peak sales periods.
  
-	Analyze the correlation between customer demographics and purchase behavior.
+Analyze the correlation between customer demographics and purchase behavior.
  
-	Highlight areas of improvement, such as reducing delayed orders or promoting low-performing products.
+Highlight areas of improvement, such as reducing delayed orders or promoting low-performing products.
  
 6.**Action Plan**:
 
-	Suggest recommendations based on insights, like offering discounts on slow-moving items or optimizing stock for peak periods.
+Suggest recommendations based on insights, like offering discounts on slow-moving items or optimizing stock for peak periods.
 
 
 ## Features
