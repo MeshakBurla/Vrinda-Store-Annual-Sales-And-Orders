@@ -30,6 +30,11 @@ The primary objective of this project is to analyze the sales and order data of 
 	Customer Details (e.g., region, demographics)
 	Payment Method
 	Order Status (e.g., completed, canceled)
+
+# Dashboard
+
+![Screenshot 2025-01-09 121231](https://github.com/user-attachments/assets/4bca7a2b-0969-4627-97f4-c29b1dafbd28)
+
 2.**Data Cleaning**:
 o	Remove duplicates or irrelevant records.
 
