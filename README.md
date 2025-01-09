@@ -8,6 +8,7 @@
 The primary objective of this project is to analyze the sales and order data of Vrinda Store to derive actionable insights for improving business performance. The focus is on understanding sales trends, customer behavior, and product performance to make informed decisions that enhance profitability, operational efficiency, and customer satisfaction.
 
 ## Dataset used
+link: https://docs.google.com/spreadsheets/d/1AADq5PZ-Imv22vYucGy5q_oiVgzsRRJ0/edit?usp=sharing&ouid=104056141736080479150&rtpof=true&sd=true
 
 
 
@@ -72,10 +73,6 @@ o	Suggest recommendations based on insights, like offering discounts on slow-mov
 - Pivot tables and pivot charts
 - Data visualization with bar charts, line graphs, and slicers
 
-## Dataset
-- **Source**: Sample sales data from [Kaggle](https://kaggle.com).
-- **Size**: 5,000 rows and 10 columns.
-- **Key Columns**: `Order ID`, `Product Name`, `Sales`, `Profit`, `Region`.
 
 ## Workflow
 1. Imported raw sales data into Excel.
