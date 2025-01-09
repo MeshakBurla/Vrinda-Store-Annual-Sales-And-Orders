@@ -14,59 +14,81 @@ The primary objective of this project is to analyze the sales and order data of 
 
 
 ## Process
+
 1.**Data Collection**:
 
   Gather raw data for sales and orders from the store's database or sales management system.
   
-  Ensure the dataset includes key fields such as:
+**Ensure the dataset includes key fields such as**:
   
-	Order ID
-	Product Name
-	Category
-	Quantity
-	Unit Price
-	Total Sales
-	Order Date
-	Customer Details (e.g., region, demographics)
-	Payment Method
-	Order Status (e.g., completed, canceled)
+	Order ID
+
+	Product Name
+
+	Category
+
+	Quantity
+
+	Unit Price
+ 
+	Total Sales
+ 
+	Order Date
+ 
+	Customer Details (e.g., region, demographics)
+ 
+	Payment Method
+ 
+	Order Status (e.g., completed, canceled)
 
 # Dashboard
 
 ![Screenshot 2025-01-09 121231](https://github.com/user-attachments/assets/4bca7a2b-0969-4627-97f4-c29b1dafbd28)
 
 2.**Data Cleaning**:
-o	Remove duplicates or irrelevant records.
+  Remove duplicates or irrelevant records.
 
-o	Address missing or inconsistent data (e.g., filling blanks or standardizing formats).
+  Address missing or inconsistent data (e.g., filling blanks or standardizing formats).
 
-o	Ensure proper formatting of dates and numerical fields.
+	Ensure proper formatting of dates and numerical fields.
 
 3.**Data Analysis**:
 
-o	Use Excel tools like pivot tables, charts, and formulas to:
+	Use Excel tools like pivot tables, charts, and formulas to:
 
-	Summarize sales data by product, category, region, and time.
-	Calculate metrics like total sales, average order value (AOV), and sales growth rate.
-	Track order fulfillment times and identify delays.
-o	Apply conditional formatting to highlight key insights (e.g., high sales, underperforming products).
+	Summarize sales data by product, category, region, and time.
+ 
+	Calculate metrics like total sales, average order value (AOV), and sales growth rate.
+ 
+	Track order fulfillment times and identify delays.
+ 
+	Apply conditional formatting to highlight key insights (e.g., high sales, underperforming products).
+ 
 4.**Visualization**:
 
-o	Create dashboards with charts (e.g., bar charts, line graphs, pie charts) to represent:
+	Create dashboards with charts (e.g., bar charts, line graphs, pie charts) to represent:
 
-	Sales trends over time.
-	Product and category performance.
-	Regional sales distribution.
-	Customer segmentation insights.
-o	Use slicers for interactivity in pivot tables and dashboards.
+	Sales trends over time.
+ 
+	Product and category performance.
+ 
+	Regional sales distribution.
+ 
+	Customer segmentation insights.
+ 
+	Use slicers for interactivity in pivot tables and dashboards.
+ 
 5.**Insight Derivation**:
 
-o	Identify top-selling products/categories and peak sales periods.
-o	Analyze the correlation between customer demographics and purchase behavior.
-o	Highlight areas of improvement, such as reducing delayed orders or promoting low-performing products.
+	Identify top-selling products/categories and peak sales periods.
+ 
+	Analyze the correlation between customer demographics and purchase behavior.
+ 
+	Highlight areas of improvement, such as reducing delayed orders or promoting low-performing products.
+ 
 6.**Action Plan**:
 
-o	Suggest recommendations based on insights, like offering discounts on slow-moving items or optimizing stock for peak periods.
+	Suggest recommendations based on insights, like offering discounts on slow-moving items or optimizing stock for peak periods.
 
 
 ## Features
