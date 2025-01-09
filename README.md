@@ -41,9 +41,6 @@ Gather raw data for sales and orders from the store's database or sales manageme
  
 	Order Status (e.g., completed, canceled)
 
-# Dashboard
-
-![Screenshot 2025-01-09 121231](https://github.com/user-attachments/assets/4bca7a2b-0969-4627-97f4-c29b1dafbd28)
 
 2.**Data Cleaning**:
 Remove duplicates or irrelevant records.
@@ -89,6 +86,10 @@ Highlight areas of improvement, such as reducing delayed orders or promoting low
 6.**Action Plan**:
 
 Suggest recommendations based on insights, like offering discounts on slow-moving items or optimizing stock for peak periods.
+
+# Dashboard
+
+![Screenshot 2025-01-09 121231](https://github.com/user-attachments/assets/4bca7a2b-0969-4627-97f4-c29b1dafbd28)
 
 
 ## Features
